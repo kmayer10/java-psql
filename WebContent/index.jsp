@@ -33,7 +33,7 @@
 		<div class="App42PaaS_header_inner">
 			<div class="App42PaaS_header">
 				<div class="logo">
-					<a href="https://thinknyx.com"><img border="0" width="500" height="600"
+					<a href="https://thinknyx.com"><img border="0" width="500" height="50"
 						alt="App42PaaS" src="images/logo.png"></img></a>
 				</div>
 			</div>
