@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>App42 Sample Java-Postgre Application</title>
+<title>Thinknyx Java Postgres Sample App</title>
 <link href="css/style-User-Input-Form.css" rel="stylesheet"
 	type="text/css">
 <script type="text/javascript" src="js/jquery-1.6.4.js"></script>
@@ -33,7 +33,7 @@
 		<div class="App42PaaS_header_inner">
 			<div class="App42PaaS_header">
 				<div class="logo">
-					<a href="http://paas.shephertz.com"><img border="0"
+					<a href="https://thinknyx.com"><img border="0"
 						alt="App42PaaS" src="images/logo.png"></img></a>
 				</div>
 			</div>
@@ -99,11 +99,11 @@
 						<div class="reachusTitle">REACH US AT:</div>
 						<div class="reachuslable">Sales Enquiries:</div>
 						<div class="reachusLink">
-							<a href="mailto:sales@shephertz.com">sales@shephertz.com</a>
+							<a href="mailto:sales@shephertz.com">contactus@thinknyx.com</a>
 						</div>
 						<div class="reachuslable">Feedback:</div>
 						<div class="reachusLink">
-							<a href="mailto:feedback@shephertz.com">feedback@shephertz.com</a>
+							<a href="mailto:feedback@shephertz.com">support@thinknyx.com</a>
 						</div>
 						<div class="reachuslable">Customer Support:</div>
 						<div class="reachusLink">
@@ -113,9 +113,9 @@
 				</div>
 
 				<div class="reachus_wrapper_vcard">
-					<div class="vcard_txt">ShepHertz Technologies Pvt. Ltd. Spaze
-						I-Tech Park, Tower-A, 11th floor - 1128, sector-49, Sohna Road,
-						Gurgaon - 122001 INDIA</div>
+					<div class="vcard_txt">Thinknyx Technologies LLP. Puri
+						Business Hub, 06th floor - 605-607, sector-81,
+						Faridabad - 121001, Haryana INDIA</div>
 				</div>
 			</div>
 		</div>
